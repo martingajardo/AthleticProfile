@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+
+<body>
+    
+    
+    <h1 style="font-size: 70px; font-family: cursive; text-align: center">Chloe Kim</h1>
+    
+    
+    <img src="pictures/kim3.jpg" width=700>
+    <img src="pictures/kim1.jpg" width="310">
+    
+    
+    
+    <!-- Navigation Menu -->
+   <h4> Menu   </h4>
+    
+    <ul>
+        <li><a href="Personal%20Info.html">About</a></li>
+        <li><a href="Results.html">Results</a></li>
+        <li><a href="Gallery.html">Gallery</a></li>
+    </ul>
+    
+
+
+    <!-- Start of the "contact" section -->
+    
+    <h4> Contact</h4>
+     
+   <form>
+       <input type = "text" placeholder = "name" ><br><br>
+  
+       <input type = "email" placeholder = "email"><br><br>
+
+       <textarea rows="10" cols="70"  placeholder="Your Message Here"></textarea><br>
+ 
+        <input type= "submit" name="submitButton" >
+   </form>
+    
+
+</body>
+</html>
